@@ -18,7 +18,7 @@ then go to "/admin" and click on "Create random users" to create some random use
 
 ## Database Schema
 
-[Database Schema](./arch.png)
+[Database Schema](https://github.com/YoussefZayed/scheduling-system/blob/master/arch.png)
 
 ## Things to improve
 
